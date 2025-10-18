@@ -1,4 +1,4 @@
-# Sonaloss
+# roadmap.sh-Projects
 
 Some small projects that i made, to get a good understanding of what i have learned.
 Author: Atulya tejas

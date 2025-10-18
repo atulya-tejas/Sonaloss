@@ -3,4 +3,4 @@
 Some small projects that i made, to get a good understanding of what i have learned.
 Author: Atulya tejas
 <br>
-Task1 Url: https://roadmap.sh/projects/testimonial-cards
+Testimonial Cards Url: https://roadmap.sh/projects/testimonial-cards
